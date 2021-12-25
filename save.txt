@@ -1,4 +1,4 @@
-<?php
+<?php// it is new
 $servername = "localhost";
 $username = "username";
 $password = "password";
