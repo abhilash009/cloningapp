@@ -1,4 +1,4 @@
-<?php// it is new
+<?php// it is new for all
 $servername = "localhost";
 $username = "username";
 $password = "password";
@@ -12,3 +12,4 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
+//-----------------------------//
